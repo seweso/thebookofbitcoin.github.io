@@ -1,4 +1,4 @@
-[Bitcoin Article] Forks
+# Forks
 
 ## Hard Fork
 
