@@ -1,4 +1,4 @@
-[Bitcoin Article] Bitcoin Information Portals
+# Bitcoin Information Portals
 
 ## bitcoin.org
 
